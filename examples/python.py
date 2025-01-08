@@ -1,5 +1,5 @@
-# calculate average of array
-
+The calculate average of array
+    
 
 
 
